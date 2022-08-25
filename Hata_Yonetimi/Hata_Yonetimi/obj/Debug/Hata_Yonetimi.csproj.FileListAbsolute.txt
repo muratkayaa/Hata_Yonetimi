@@ -1,0 +1,8 @@
+C:\Users\Myworld\Desktop\Patika-CSharp-101\Hata_Yonetimi\Hata_Yonetimi\bin\Debug\Hata_Yonetimi.exe.config
+C:\Users\Myworld\Desktop\Patika-CSharp-101\Hata_Yonetimi\Hata_Yonetimi\bin\Debug\Hata_Yonetimi.exe
+C:\Users\Myworld\Desktop\Patika-CSharp-101\Hata_Yonetimi\Hata_Yonetimi\bin\Debug\Hata_Yonetimi.pdb
+C:\Users\Myworld\Desktop\Patika-CSharp-101\Hata_Yonetimi\Hata_Yonetimi\obj\Debug\Hata_Yonetimi.csproj.AssemblyReference.cache
+C:\Users\Myworld\Desktop\Patika-CSharp-101\Hata_Yonetimi\Hata_Yonetimi\obj\Debug\Hata_Yonetimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Myworld\Desktop\Patika-CSharp-101\Hata_Yonetimi\Hata_Yonetimi\obj\Debug\Hata_Yonetimi.csproj.CoreCompileInputs.cache
+C:\Users\Myworld\Desktop\Patika-CSharp-101\Hata_Yonetimi\Hata_Yonetimi\obj\Debug\Hata_Yonetimi.exe
+C:\Users\Myworld\Desktop\Patika-CSharp-101\Hata_Yonetimi\Hata_Yonetimi\obj\Debug\Hata_Yonetimi.pdb
